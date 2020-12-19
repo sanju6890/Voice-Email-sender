@@ -1,4 +1,4 @@
-body=''
-reciver_id=''
-email_id="abcd@gmail.com"
-password="abc@123"
+body= "" // Main body of the Email
+reciver_id= "" // Email address of Receiver
+email_id= "abcde@gmail.com" // This is the Sender's Email address
+password= "abc@123"  // Password of Sender's Email account to get the access
