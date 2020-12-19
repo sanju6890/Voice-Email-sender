@@ -68,9 +68,6 @@ button.pack(pady=10)
 txt_box = Text(root, width=60, height=10, font=("Helvetica",16,"italic"),selectbackground="white",selectforeground="blue")
 txt_box.pack(pady=10)
 
-# button = Button(root, text='Insert Image',bg="black",fg="white",font=("Times", "12", "bold"),borderwidth=5,command=insert_img)
-# button.pack(pady=10)
-
 button = Button(root, text='SEND Email',bg="black",fg="white",font=("Times", "12", "bold"),borderwidth=5,command=send_email)
 button.pack(pady=20)
 
